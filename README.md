@@ -25,7 +25,7 @@ The add-on ships with an empty key. Nothing is sent anywhere until you set one.
 
 ### From AnkiWeb (recommended)
 1. In Anki: **Tools → Add-ons → Get Add-ons…**
-2. Enter code: **TBD** (added once the AnkiWeb listing is live)
+2. Enter code: **1196353080** (AnkiWeb page: https://ankiweb.net/shared/info/1196353080)
 3. Restart Anki.
 
 ### Manually from GitHub Releases
