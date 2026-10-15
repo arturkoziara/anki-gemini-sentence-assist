@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+meta.json
+user_files/*
+!user_files/README.txt
+*.log
+*.ankiaddon

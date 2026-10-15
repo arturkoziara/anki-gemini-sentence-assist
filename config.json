@@ -1,0 +1,18 @@
+{
+  "gemini_api_key": "",
+  "gemini_model": "gemini-2.5-flash-lite",
+  "gemini_models": [
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-flash",
+    "gemini-2.5-pro"
+  ],
+  "gemini_sentence_field": "Sentence",
+  "gemini_translation_field": "Sentence Meaning",
+  "gemini_grammar_field": "Notes",
+  "gemini_want_translation": true,
+  "gemini_want_grammar": false,
+  "gemini_overwrite": false,
+  "gemini_system_instructions": "",
+  "gemini_translation_instructions": "",
+  "gemini_grammar_instructions": ""
+}
